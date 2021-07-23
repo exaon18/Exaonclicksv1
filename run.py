@@ -25,11 +25,10 @@ red2 = Style.NORMAL+Fore.RED
 #banner
 print (red+"===================================================")
 print (line+"Telegram Gruop    : @t_e_h_f")
-print (red2+"AUTHOR            : Exaon")
+print (red2+"AUTHOR            :E̷x̷a̷o̷n̷  ")
 print (set+"Youtube Channel   : Exaon tech")
 print (mine+"Suport&Thanks     : Jejaka Tutorial")
 print(red+"===================================================")
-print (red+" E̷x̷a̷o̷n̷ t̷e̷c̷h̷ ")
 
 #System_Script
 if not os.path.exists('session'):
